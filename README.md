@@ -1,9 +1,9 @@
-### Documentation is included in the Documentation folder ###
+d### Documentation is included in the Documentation folder ###
 
 
 ### REFrameWork Template ###
 **Robotic Enterprise Framework**
-This project is used to generate yearly report for a vendor by collecting monthly reports and uploading the final report and thereby updating the status by unique Id.
+This project is used to generate yearly report for a vendor by collecting monthly reports and uploading the final report and thereby updating the status by unique Id This project will Starting collect the data and filter it and add to Queue this will prepare the data for Porforming .
 
 
 ### How It Works ###
